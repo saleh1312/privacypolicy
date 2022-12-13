@@ -1,0 +1,41 @@
+.page{
+    width: 100vw;
+    height: 100vh;
+}
+.page h1{
+    color: #FFFAF0;
+}
+.mybody{
+    background-color: 	#FFFAF0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.sidebar{
+    width: 40%;
+}
+.content{
+    width: 60%;
+    overflow-y: hidden;
+}
+.titlebtn{
+    height: 50px;
+    background-color: white;
+    
+}
+a{
+    text-decoration: none;
+    display: block;
+    height: 100%;
+    box-sizing: border-box;
+    padding-left: 7px;
+    font-size: large;
+    font-weight:700;
+    color: black;
+}
+a:hover{
+    cursor: pointer;
+    background-color:lightblue;
+}
+label{
+    font-weight: 600;
+}

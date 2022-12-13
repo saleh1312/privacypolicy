@@ -1,0 +1,12 @@
+.chatpag{
+    width: 100vw;
+    height: 100vh;
+    background: 'none transparent';
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    align-items: flex-start;
+    padding: 10px;
+    z-index: "10000";
+    
+}
